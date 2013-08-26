@@ -23,6 +23,7 @@ import android.widget.TextView;
 
 public class MainActivity extends Activity {
 
+	//tests
 	/*********** メンバ定数 ***********/
 
 	String SOURCE_NAME = "MainActivity: ";
